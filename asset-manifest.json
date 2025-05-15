@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/r3act-project/static/css/main.1d77fee0.css",
+    "main.js": "/r3act-project/static/js/main.e24e2940.js",
+    "static/js/453.71cdaad5.chunk.js": "/r3act-project/static/js/453.71cdaad5.chunk.js",
+    "static/media/user-avatar.svg": "/r3act-project/static/media/user-avatar.8c75e22659ff0c8d0c51b327365a7432.svg",
+    "index.html": "/r3act-project/index.html",
+    "static/media/arrow-down.svg": "/r3act-project/static/media/arrow-down.499a81f7058420ec4c251b760054534d.svg",
+    "static/media/Vector.svg": "/r3act-project/static/media/Vector.d8fce16f935c6ec2b3e2a1f23c411e42.svg",
+    "static/media/Line 3.svg": "/r3act-project/static/media/Line 3.bc05bcd405ec08f80abd2f569fe25964.svg",
+    "static/media/Line 2.svg": "/r3act-project/static/media/Line 2.ebd3212a9036753beed750f97b40c041.svg",
+    "main.1d77fee0.css.map": "/r3act-project/static/css/main.1d77fee0.css.map",
+    "main.e24e2940.js.map": "/r3act-project/static/js/main.e24e2940.js.map",
+    "453.71cdaad5.chunk.js.map": "/r3act-project/static/js/453.71cdaad5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d77fee0.css",
+    "static/js/main.e24e2940.js"
+  ]
+}
