@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/r3act-project/static/css/main.1d77fee0.css",
-    "main.js": "/r3act-project/static/js/main.1c124d61.js",
+    "main.js": "/r3act-project/static/js/main.a7cf9c6e.js",
     "static/js/453.71cdaad5.chunk.js": "/r3act-project/static/js/453.71cdaad5.chunk.js",
     "static/media/user-avatar.svg": "/r3act-project/static/media/user-avatar.8c75e22659ff0c8d0c51b327365a7432.svg",
     "index.html": "/r3act-project/index.html",
@@ -10,11 +10,11 @@
     "static/media/Line 3.svg": "/r3act-project/static/media/Line 3.bc05bcd405ec08f80abd2f569fe25964.svg",
     "static/media/Line 2.svg": "/r3act-project/static/media/Line 2.ebd3212a9036753beed750f97b40c041.svg",
     "main.1d77fee0.css.map": "/r3act-project/static/css/main.1d77fee0.css.map",
-    "main.1c124d61.js.map": "/r3act-project/static/js/main.1c124d61.js.map",
+    "main.a7cf9c6e.js.map": "/r3act-project/static/js/main.a7cf9c6e.js.map",
     "453.71cdaad5.chunk.js.map": "/r3act-project/static/js/453.71cdaad5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d77fee0.css",
-    "static/js/main.1c124d61.js"
+    "static/js/main.a7cf9c6e.js"
   ]
 }
